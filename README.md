@@ -6,7 +6,7 @@ A modern React-based web app to browse and book photographers with filters, sear
 - Search photographers by name, tags, or location
 - Filter by rating, style, city, and price range
 - View detailed profiles with portfolio and reviews
-- Pagination & sorting support
+- Sorting support
 - Responsive UI with Tailwind CSS
 
 ## Tech Stack
